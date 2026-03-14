@@ -1,4 +1,5 @@
 Инструкция:
+1. Получить токен от HuggingFace и вставить его в переменную API_KEY в файле .env
 1. Установить Python версии 3.10, если ещё не установлен (https://www.python.org/downloads/release/python-3100/) установить его и поставить интерпретатор в IDE
 2. Создать и запустить виртуальное окружение  python -m venv venv, venv\Scripts\activate  (это для Виндовс, для MacOS или Linux по другому, можете погуглить, если необходимо)
 3.  Установить зависимости pip install -r requirements.txt
